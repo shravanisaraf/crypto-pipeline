@@ -3,6 +3,10 @@
 > Built real-time crypto data pipeline ingesting live prices every 30s via Kafka,
 > storing to PostgreSQL with live Grafana monitoring dashboard.
 
+## Live dashboard
+
+![Crypto Live Prices Dashboard](dashboard.png)
+
 ## Architecture
 
 ```

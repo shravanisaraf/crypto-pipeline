@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Mac
+.DS_Store
+
+# Docker volumes (generated data, not code)
+pgdata/
+grafana_data/
+
+# IDE
+.vscode/
+.idea/
